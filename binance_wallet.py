@@ -240,7 +240,7 @@ def main():
         <body>
           <div id='body'>
             <p>
-              Morning ugly,
+              Morning,
             </p>
         
             <p>
